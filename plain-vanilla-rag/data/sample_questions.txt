@@ -1,0 +1,4 @@
+# One question per line. Lines starting with # are ignored.
+What is the main topic of the document?
+What are the key conclusions?
+What is the capital of Mars?
